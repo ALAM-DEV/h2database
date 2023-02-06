@@ -27,7 +27,7 @@ public class H2databaseApplication {
 	}
 
 	@PostConstruct
-	private void postInit(){
+	  private void postInit(){
 
 
 
