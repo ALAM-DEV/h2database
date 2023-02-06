@@ -1,0 +1,1 @@
+INSERT INTO courses (id,code,name,instructor) VALUES(5,"code1","Java","Mister Java");
